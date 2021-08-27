@@ -1,9 +1,9 @@
-tum {
+span {
     display: block;
-    background: yellow;
+    background:black;
     height: 100%;
     border-width: 10px;
-    color: aqua;
+    color: white;
     
     
   }
